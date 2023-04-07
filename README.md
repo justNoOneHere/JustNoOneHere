@@ -105,18 +105,18 @@
 
 <br/>    
 
-<br/>  
 
-  
+<div align="center"></div>
+
+
+## The Old Man IT
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/justNoOneHere/JustNoOneHere/main/homer-any.gif" align="center" style="width: 100%" />
+</div>  
 
 <br/>  
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=justNoOneHere&&style=flat-square" align="center" />
 </div>  
-  
-
-<br/>  
-
-<div align="center"></div>
-<br />
