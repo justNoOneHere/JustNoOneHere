@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/justNoOneHere/JustNoOneHere/main/header.gif" align="center" style="width: 100%" />
+<img src="https://raw.githubusercontent.com/justNoOneHere/JustNoOneHere/main/header-size.gif" align="center" style="width: 100%" />
 </div>  
   
 
