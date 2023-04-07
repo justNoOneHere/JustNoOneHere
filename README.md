@@ -118,5 +118,5 @@
 <br/>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=justNoOneHere&&style=flat-square" align="center" />
+<img src="https://raw.githubusercontent.com/justNoOneHere/JustNoOneHere/main/hiv-positive-im-not-just-sure.gif" align="center" style="width: 100%" />
 </div>  
