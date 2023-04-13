@@ -20,10 +20,18 @@
 
 <br/>  
 
+**No VAC - 2021 (just for fun, i don't use it)**
+
+<br/>  
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/52430148/231633097-9e558623-6ee8-4ef4-b11b-53a22701bc8a.png" align="center"/>
+</div>  
+
+<br/>  
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
-
 
 
 ### Frontend  
