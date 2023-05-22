@@ -25,7 +25,7 @@
 <br/>  
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/52430148/231633097-9e558623-6ee8-4ef4-b11b-53a22701bc8a.png" align="center"/>
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/52430148/240002375-840e3bc7-c65f-4ea0-8e1a-d89c47e7ccc2.PNG" align="center"/>
 </div>  
 
 <br/>  
